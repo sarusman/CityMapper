@@ -1,4 +1,4 @@
-<img width="1012" alt="Capture d’écran 2024-01-01 à 19 19 03" src="https://github.com/sarusman/CityMapper/assets/60844500/6399f6f1-a894-4bc7-9a3b-d951a33d7a2c"># CityMapper
+# CityMapper
 ## Overview
 
 Citymapper is a Python-based software developed for an academic assignment. The application is designed to suggest travel routes between two transit stations.
